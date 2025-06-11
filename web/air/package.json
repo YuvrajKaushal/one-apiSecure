@@ -5,7 +5,7 @@
   "dependencies": {
     "@douyinfe/semi-icons": "^2.46.1",
     "@douyinfe/semi-ui": "^2.46.1",
-    "@visactor/react-vchart": "~1.8.8",
+    "@visactor/react-vchart": "~2.0.0",
     "@visactor/vchart": "~1.8.8",
     "@visactor/vchart-semi-theme": "~1.8.8",
     "axios": "^0.27.2",
